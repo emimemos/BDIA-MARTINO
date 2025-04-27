@@ -1,0 +1,19 @@
+
+# Ignorar almacenamiento de chroma
+TP4VectorDatabases/chroma_store/
+
+# Archivos temporales de Jupyter
+*.ipynb_checkpoints
+
+# Archivos de Python compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Entornos virtuales comunes
+env/
+venv/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
